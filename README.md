@@ -1,7 +1,8 @@
 ````markdown
 # 🚗 Car Service Management System
 
-A simple **Car Service Management System** built using Python. This beginner-friendly project allows users to add cars, book services, generate bills, and view car service records.
+A simple **Car Service Management System** built using Python.
+This beginner-friendly project allows users to add cars, book services, generate bills, and view car service records.
 
 ## ✨ Features
 
