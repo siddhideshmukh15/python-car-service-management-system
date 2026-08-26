@@ -55,7 +55,7 @@ Enter Customer Name: Rahul
 Enter Car Model: Swift
 
 Car added successfully!
-```
+
 
 ## 🚀 Future Improvements
 
@@ -69,8 +69,3 @@ Car added successfully!
 ## 👩‍💻 Author
 
 **Siddhi Deshmukh**
-
-This project was created as part of my **Python learning journey**.
-
-```
-```
