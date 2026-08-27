@@ -82,6 +82,3 @@ This project helped me practice:
 * Add mechanic details
 * Add multiple services for one car
 
-## 👩‍💻 Author
-
-**Siddhi Deshmukh**
