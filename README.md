@@ -1,15 +1,17 @@
 # 🚗 Car Servicing Management System
 
-A simple **Python console-based project** for managing car servicing records.
+A simple **Python-based Car Servicing Management System** that helps manage customer cars, service bookings, service status, and billing.
 
 ## ✨ Features
 
-* Add customer and car details
+* Add new customer and car details
 * Book a car service
-* View all cars
-* Search car details
+* Choose from available services
+* Automatic service billing
+* View all car records
+* Search for a car using Car ID
 * Update service status
-* Generate service bill
+* Generate a customer bill
 * Simple menu-driven interface
 
 ## 🛠️ Technologies Used
@@ -20,33 +22,66 @@ A simple **Python console-based project** for managing car servicing records.
 * Conditional Statements
 * User Input
 
+## 🚘 Available Services
+
+| Service         |    Price |
+| --------------- | -------: |
+| Oil Change      | Rs. 1500 |
+| General Service | Rs. 2500 |
+| Brake Service   | Rs. 3000 |
+| AC Service      | Rs. 2000 |
+
 ## ▶️ How to Run
 
-1. Clone the repository.
-2. Open the project folder.
-3. Run the Python file:
+1. Clone this repository:
 
 ```bash
-python car_servicing.py
+git clone https://github.com/siddhideshmukh15/python-car-service-management-system.git
 ```
 
-## 📋 Service Options
+2. Open the project folder:
 
-| Service         |  Price |
-| --------------- | -----: |
-| Oil Change      | ₹1,500 |
-| General Service | ₹2,500 |
-| Brake Service   | ₹3,000 |
-| AC Service      | ₹2,000 |
+```bash
+cd python-car-service-management-system
+```
 
-## 📌 Future Improvements
+3. Run the program:
 
-* Add JSON/file storage
-* Add customer history
+```bash
+python car-service-management.py
+```
+
+## 📋 Menu Options
+
+```text
+1. Add Car
+2. Book Service
+3. View Cars
+4. Search Car
+5. Update Service Status
+6. Generate Bill
+7. Exit
+```
+
+## 📚 Concepts Used
+
+This project helped me practice:
+
+* Python dictionaries
+* `while` loops
+* `if-elif-else` statements
+* Nested dictionaries
+* User input handling
+* Data management
+
+## 🚀 Future Improvements
+
+* Save data using JSON files
+* Add customer phone numbers
 * Add service dates
 * Add mechanic details
-* Add automatic bill generation
+* Add multiple services for one car
 
-## 👩‍💻 Project
+## 👩‍💻 Author
 
-This project was created as part of my **Python learning journey** to practice programming concepts by building a real-world application.
+**Siddhi Deshmukh**
